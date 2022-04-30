@@ -1,0 +1,20 @@
+Flex Container
+
+display -> inicializador do container
+flex-direction -> fazer direcionamentos dos itens em linha ou coluna
+flex-wrap -> quebra de linha ou não
+flex-flow -> abreviação direction wrap
+justify-content -> alinha os itens do container de acordo com sua direção
+align-items -> alinhar os itens de acordo com o eixo
+align-content -> alinha os itens do container
+
+--
+
+Flex item
+
+flex-grow -> definir o fator de crescimento
+flax-basis -> definir o tamanho inicial do item antes da distribuição do espaço
+flex-shrink -> defini a capacidade de redução
+flex -> abreviação das propriedades acimar
+order -> ordem de distribuição e listagem desses itens
+align-self -> alinhamento de um item especifico no container
